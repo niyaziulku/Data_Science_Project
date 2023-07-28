@@ -1,5 +1,5 @@
 # EDA for Unicorn Companies
-![](https://storage.googleapis.com/kaggle-datasets-images/2192732/3662862/ea8a6e0470bd353a45317b4202444eb6/dataset-cover.jpg?t=2022-05-19-12-12-02)
+![](https://www.ideasoft.com.tr/wp-content/uploads/2022/01/startup-nedir.png)
 In this project, we will delve into the world of unicorn companies, private companies with valuations surpassing $1 billion, as of March 2022. By analyzing and structuring the data, we will uncover valuable insights and patterns within the realm of these extraordinary and high-valued startups.
 ## About the Dataset
 This data science project involves working with a dataset containing information about unicorn companies—private companies with valuations exceeding $1 billion as of March 2022. The dataset includes details about the country of origin, current valuation, funding, industry, top investors, year of foundation, and the year the $1 billion valuation was reached.
