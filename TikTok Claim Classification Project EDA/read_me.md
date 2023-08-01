@@ -1,4 +1,4 @@
-# TikTok Claim Classification Project Eda
+# TikTok Claim Classification Project EDA
 ![](https://cdn.webrazzi.com/uploads/2018/12/tiktok.jpg)
 The fictional TikTok data team embarks on a machine learning project to classify user submissions as "claims" or "opinions." Before model building, the data undergoes thorough analysis, exploration, cleaning, and structuring.
 ## About the Dataset
