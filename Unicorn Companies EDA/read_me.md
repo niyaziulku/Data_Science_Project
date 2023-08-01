@@ -6,7 +6,7 @@ This data science project involves working with a dataset containing information
 ## Goal
 The primary objective of this project is to conduct an exploratory data analysis (EDA) to gain insights into the characteristics of unicorn companies. By exploring and structuring the data, we aim to identify meaningful patterns and trends within the dataset. Through data visualization, we can further analyze and present these insights to facilitate decision-making.
 ## Methodology
-TThe project will involve several key steps. Firstly, data manipulation and structuring will be performed using Python's pandas and numpy libraries. By leveraging these tools, we can organize the data in ways that allow us to uncover hidden trends and important aspects of the dataset.
+The project will involve several key steps. Firstly, data manipulation and structuring will be performed using Python's pandas and numpy libraries. By leveraging these tools, we can organize the data in ways that allow us to uncover hidden trends and important aspects of the dataset.
 Next, we will focus on data visualization, utilizing functions from the matplotlib.pyplot module and the seaborn library. These visualizations will provide a clearer understanding of the relationships and patterns within the data.
 Lastly, we will draw conclusions from our findings, highlighting significant trends observed in the dataset.
 ## Significance
