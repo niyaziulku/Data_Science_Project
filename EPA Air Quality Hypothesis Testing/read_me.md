@@ -1,5 +1,5 @@
 # EPA Air Quality Hypothesis Testing
-![](https://mlawiy0je0ms.i.optimole.com/206F41w.2d6g.2d53d/w:1024/h:576/q:auto/https://www.planetwatch.io/wp-content/uploads/2022/08/Air-pollution.jpg)
+![](https://ww2.arb.ca.gov/sites/default/files/inline-images/cumulative_exposure_web.png)
 Working for fictional environmental think tank called Repair Our Air (ROA) which is formulating policy recommendations to improve the air quality in America, using the Environmental Protection Agency's Air Quality Index (AQI) to guide the decision making. 
 In this data science project, we have been tasked with leveraging AQI data to help them determine their strategy for the following questions:
 
