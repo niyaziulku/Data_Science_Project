@@ -1,5 +1,6 @@
 # Marketing And Sales Data Linear Regression
 ![](https://www.fundoodata.com/learning-center/wp-content/uploads/article-images19.png)
+
 In this project, we will explore the relationship between marketing promotional budgets and sales by performing a complete simple linear regression analysis, which includes 
 - creating and fitting a model, 
 - checking model assumptions, 
