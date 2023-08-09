@@ -1,4 +1,4 @@
-# Marketing And Sales Data Linear Regression
+# Marketing And Sales Data Multiple Linear Regression
 ![](https://www.feedough.com/wp-content/uploads/2020/08/what-is-marketing.png)
 
 In this project, we will explore the relationship between marketing promotional budgets and sales by performing a complete simple linear regression analysis, which includes:
