@@ -1,5 +1,5 @@
 # Airline Company Satisfaction Logistic Regression
-![](https://cdn.turkishairlines.com/m/2b3f622a70ef0f61/original/Child-passenger-sharing-his-meal-with-the-female-passenger-behind-him-in-the-THY-Economy-Class-cabin.jpg)
+![](https://www.pax-intl.com/assets/uploads/2019-08-06-11.42.53-turkish-airlines-new-uniforms-august-2019.jpg?&resize.width=600)
 In the context of this data science project, I am fulfilling the role of a data scientist, collaborating with a hypothetical airline corporation. The company's primary objective revolves around discerning the potential correlation between an improved in-flight entertainment milieu and elevated levels of customer contentment. 
 ## About the Dataset
 The data for this activity is for a sample size of 129,880 customers. It includes data points such as class, flight distance, and in-flight entertainment (number of entertainment usage), among others. 
