@@ -1,5 +1,5 @@
 # Airline Company Satisfaction Decision Tree
-![](https://cdn.turkishairlines.com/m/2b3f622a70ef0f61/original/Child-passenger-sharing-his-meal-with-the-female-passenger-behind-him-in-the-THY-Economy-Class-cabin.jpg)
+![](https://businesstravelerusa.com/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-10.01.02-AM.png)
 This project focuses on predicting customer satisfaction with Invistico Airlines' services based on customer feedback by leveraging the dataset "Invistico_Airline.csv," with the aim of enhancing the airline's understanding of factors that influence customer satisfaction and identify significant features for predicting future satisfaction levels.
 ## About the Dataset
 The data for this activity is for a sample size of 129,880 customers. It includes data points such as class, flight distance, and in-flight entertainment (number of entertainment usage), among others. 
