@@ -1,5 +1,6 @@
 # Airline Company Satisfaction Random Forest
 ![](https://www.nerdwallet.com/assets/blog/wp-content/uploads/2021/06/Screenshot-2022-11-29-at-10.54.31-AM-598x462.png)
+
 This data science project is a continuation of the airlines project that we began modeling with decision trees. We will use the same data, however this time we will train, tune, and evaluate a random forest model.
 ## About the Dataset
 This activity uses a dataset called Invistico_Airline.csv. It represents the details of customer feedback for Invistico Airlines (airline name changed).  
