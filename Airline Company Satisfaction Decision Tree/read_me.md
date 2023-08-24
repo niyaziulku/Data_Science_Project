@@ -5,7 +5,7 @@ This project focuses on predicting customer satisfaction with Invistico Airlines
 ## About the Dataset
 The data for this activity is for a sample size of 129,880 customers. It includes data points such as class, flight distance, and in-flight entertainment (number of entertainment usage), among others. 
 ## Goal
-The airline is interested in predicting whether a future customer would be satisfied with their services given previous customer feedback about their flight experience. The airline are interested in knowing which features are most important to customer satisfaction.
+The airline is interested in predicting whether a future customer would be satisfied with their services given previous customer feedback about their flight experience. In other words, they focus on knowing which features are most important to customer satisfaction.
 ## Methodology
 - Exploring the data and completing the cleaning process
 - Building a decision tree model
